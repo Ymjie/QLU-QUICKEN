@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: '纯公益机场',
   // API
-  host: 'http://www.vshex.com',
+  host: 'https://www.vshex.com',
   // 主题
   theme: {
     sidebar: 'dark',
