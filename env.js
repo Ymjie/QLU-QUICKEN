@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: '纯公益机场',
   // API
-  host: 'https://www.vshex.com',
+  host: 'https://www.netop.me',
   // 主题
   theme: {
     sidebar: 'dark',
