@@ -2,7 +2,7 @@ window.settings = {
   // 站点标题
   title: 'QLU-QUICKEN',
   // API
-  host: 'https://netop.me/',
+  host: 'https://www.netop.me/',
   // 主题
   theme: {
     sidebar: 'dark',
