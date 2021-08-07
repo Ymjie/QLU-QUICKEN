@@ -12,7 +12,7 @@ window.settings = {
     color: 'black'
   },
   // 背景
-  background_url: 'https://api.sunweihu.com/api/bing1/api.php',
+  background_url: 'https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN',
   // crisp
   crisp_id: ''
 }
