@@ -10,5 +10,5 @@ window.settings = {
     color: 'black'
   },
   // 背景
-  background_url: 'https://z3.ax1x.com/2021/05/07/g3z8MD.jpg'
+  background_url: 'https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN'
 }
