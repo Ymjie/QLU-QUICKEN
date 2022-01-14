@@ -2,9 +2,9 @@ window.settings = {
   // 站点标题
   title: 'QLU-QUICKEN',
   // 站点描述
-  description: '纯公益机场|停止国内邮箱注册',
+  description: '纯公益机场|禁止滥用',
   // API
-  host: 'https://www.netop.me/',
+  host: 'https://www.netop.me',
   // 主题
   theme: {
     sidebar: 'dark',
